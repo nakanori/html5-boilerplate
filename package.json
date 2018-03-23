@@ -1,0 +1,15 @@
+{
+  "name": "html5-boilerplate",
+  "version": "1.0.0",
+  "description": "The web's most popular front-end template",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
